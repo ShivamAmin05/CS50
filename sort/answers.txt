@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: The data take the longest amount of time to sort in the worst case scenario, but it is the fastest when sorted because it only has to run once
+
+sort2 uses: Merge sort
+
+How do you know?: It takes the least amount of time between the three methods and the time to sort is relatively similar whether or not the data is sorted, random or reversed.
+
+sort3 uses: Selection sort
+
+How do you know?: It takes longer to sort than the merge sort, and the time for sorting dosen't vary much whether or not the data is sorted, random or reversed.
